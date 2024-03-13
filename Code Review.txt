@@ -1,0 +1,2 @@
+I was unable to get the solution to load in VS. The error message said that your folder directory is missing the .csproj file.
+I think you just need to throw in the entire project folder, the one with the bin, obj, and Properties folders.
